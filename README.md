@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a 3rd year student pursuing Computer Science Engineering from VIT Bhopal. I am aspiring Front end developer. skilled in front-end development, specializing in HTML and CSS. Proficient in utilizing Bootstrap framework for creating responsive and visually appealing web applications. Passionate about creating user-friendly interfaces that enhance the overall user experience. Demonstrates strong problem-solving abilities to overcome challenges and find innovative solutions. Other than this I love to play Table Tennis and go on trip
+Currently a Product Support Engineer at Exotel for more than a year completed Computer Science Engineering from VIT Bhopal. I am aspiring support engineer analyzing the issue, debugging and problem solving working with different ream  skilled in front-end development, specializing in HTML and CSS. Proficient in utilizing Bootstrap framework for creating responsive and visually appealing web applications. Passionate about creating user-friendly interfaces that enhance the overall user experience. Demonstrates strong problem-solving abilities to overcome challenges and find innovative solutions. Other than this I love to play Table Tennis and go on trip
 
 
 ## 🌐 Socials:
